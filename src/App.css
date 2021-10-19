@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.actionContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+}
